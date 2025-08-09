@@ -1,4 +1,3 @@
-// services/cpuMonitor.js
 const os = require("os");
 
 function getCPUUsage() {
